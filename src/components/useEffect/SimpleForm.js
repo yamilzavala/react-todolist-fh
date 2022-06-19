@@ -37,7 +37,7 @@ export const SimpleForm = () => {
             <input 
                 type='text'
                 name='name'
-                placeholder='name'
+                placeholder='enter 123 to show information about cursor (x,y)'
                 value={name}
                 onChange={handleChange}
                 className='form-control'
